@@ -79289,13 +79289,14 @@ else if(g>=700)e=4
 else if(g>=600)e=3
 else if(g>=400)e=3
 else if(g>=200)e=2
+else if(g>=50)e=1
 s=$.ba.ad().b
 r=$.ba.ad().a
 q=$.ba.ad().a
 p=$.ba.ad().b
 o=$.ap0()
 n=f?$.ba.ad().a*3.8:$.ba.ad().a*3.8
-m=f?$.ba.ad().b*1.5:$.ba.ad().b*1.8
+m=f?$.ba.ad().b*1.8:$.ba.ad().b*1.5
 l=A.dR(10)
 k=f?$.ba.ad().b*0.09:$.ba.ad().b*0.09
 j=f?$.ba.ad().a*0.1:$.ba.ad().a*0.1
