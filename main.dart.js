@@ -79288,6 +79288,7 @@ else if(a>=800)a1=5
 else if(a>=700)a1=4
 else if(a>=600)a1=3
 else if(a>=400)a1=3
+else if(a>=200)a1=2
 s=$.bw.aj().b
 r=$.bw.aj().a
 q=$.bw.aj().a
@@ -79494,7 +79495,7 @@ A.ag2.prototype={
 $0(){this.a.d=-1},
 $S:0}
 A.ag1.prototype={
-$2(a,b){var s,r,q,p,o,n,m=null,l=b.b<700,k=l?12:15,j=l?10:20,i=A.a([new A.fi(B.d7,m,m,new A.bj(new A.aw($.bw.aj().a*0.001,0,0,0),B.R_,m),m),B.Lo],t.p)
+$2(a,b){var s,r,q,p,o,n,m=null,l=b.b<700,k=l?12:15,j=l?8:20,i=A.a([new A.fi(B.d7,m,m,new A.bj(new A.aw($.bw.aj().a*0.001,0,0,0),B.R_,m),m),B.Lo],t.p)
 for(s=this.a,r=0;q=$.ap1(),r<5;++r){p=s.d===r
 o=p?B.hT:B.BD
 n=new A.aH(20,20)
