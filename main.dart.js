@@ -79282,7 +79282,7 @@ A.pB.prototype={}
 A.r8.prototype={}
 A.rB.prototype={}
 A.Eq.prototype={
-L(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=A.bz(a,h,t.w).w.a.a,f=g>=100,e=f?7:1
+L(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=A.bz(a,h,t.w).w.a.a,f=g>=30,e=f?7:1
 if(g>=1200)e=8
 else if(g>=800)e=5
 else if(g>=700)e=4
@@ -79295,7 +79295,7 @@ q=$.ba.ad().a
 p=$.ba.ad().b
 o=$.ap0()
 n=f?$.ba.ad().a*3.8:$.ba.ad().a*3.8
-m=f?$.ba.ad().b*1.5:$.ba.ad().b*1.5
+m=f?$.ba.ad().b*1.5:$.ba.ad().b*1.8
 l=A.dR(10)
 k=f?$.ba.ad().b*0.09:$.ba.ad().b*0.09
 j=f?$.ba.ad().a*0.1:$.ba.ad().a*0.1
